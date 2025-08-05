@@ -7,7 +7,7 @@ This project looks at how well TabPFN (Tabular Prior-Data Fitted Network) perfor
 3. Adult Income Classification  
 
 The experiments draw inspiration from the paper:  
-**Prior-Data Fitted Networks (TabPFN)**, Nature, 2024  
+**Accurate predictions on small data with a tabular foundation model**, Nature, 2024  
 https://www.nature.com/articles/s41586-024-08328-6  
 
 That paper showed that a foundation model for tabular data can reach competitive or better performance than well-tuned machine learning models without any hyperparameter tuning. This is especially true for small-data situations.
