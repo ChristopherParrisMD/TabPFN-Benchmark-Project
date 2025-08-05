@@ -83,8 +83,8 @@ These experiments support the findings in the TabPFN paper:
 ## How to Reproduce
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/tabpfn_vs_xgb.git  
-   cd tabpfn_vs_xgb  
+   git clone https://github.com/ChristopherParrisMD/TabPFN-Benchmark-Project.git
+   cd TabPFN-Benchmark-Project 
    ```  
 2. Install requirements:  
    ```bash
